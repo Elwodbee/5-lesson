@@ -1,0 +1,12 @@
+.salom{
+    color: yellow;
+    font-size: 100px;
+    text-align: center;
+}
+
+body{
+    background-color: blue;
+    display: flex;
+    justify-content: space-evenly;
+    padding:200px;
+}
